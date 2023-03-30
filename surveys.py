@@ -52,3 +52,9 @@ surveys = {
     "satisfaction": satisfaction_survey,
     "personality": personality_quiz,
 }
+
+# my_questions = satisfaction_survey.questions
+
+# for question in my_questions:
+#     print(question.question)
+   
